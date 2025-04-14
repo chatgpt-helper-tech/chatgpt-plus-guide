@@ -114,11 +114,17 @@
 
 ## 🛠 ChatGPT Plus 升级步骤
 
-1️⃣ 登录 ChatGPT 官网：https://chat.openai.com（建议美国/新加坡节点）
+1️⃣ 登录 ChatGPT 点击升级：[https://chatgpt.com/]
+![升级](./assets/puls_1.jpg)
 
-2️⃣ 左下角【Settings】→【My Plan】→【Upgrade to Plus】
 
-3️⃣ 填写卡片信息（使用你在野卡后台获取的 Visa 卡）：
+2️⃣ 寻找要升级的套餐
+![套餐选择](./assets/puls_2.jpg)
+
+
+3️⃣ 复制升级的链接
+![升级链接](./assets/puls_3.jpg)
+
 
 ```text
 Card Number: 野卡卡号
@@ -132,22 +138,34 @@ Zip Code: 90001
 Country: United States
 4️⃣ 点击确认付款，几秒后即可提示升级成功，并收到官方邮件
 
-❓ 常见问题解答
+
+---
+
+## ❓ 常见问题解答
+
 问题	解决方案
 卡被拒	检查余额或重新绑定，建议充值 $25 以上
 地址错误	使用上方推荐地址或更换城市尝试
 支付无反应	更换浏览器，关闭广告拦截插件
 充值失败	建议使用支付宝充值（非银行卡）
-🧩 推荐配套教程
-📘 ChatGPT 免费注册教程（图文+免手机号）
 
-🔐 VPN 工具推荐榜单（高成功率）
+---
 
-🚀 机场推荐榜单（延迟低、节点稳）
+## 🧩 推荐配套教程
 
-🧠 提示词大全（办公、写作、编程）
+[📘 ChatGPT 免费注册教程（图文+免手机号）](https://chatgpt-helper-tech.github.io/chatgpt-register-guide/)
 
-✅ 总结
+[🔐 VPN 工具推荐榜单（高成功率）](https://chatgpt-helper-tech.github.io/network-access/)
+
+[🚀 机场推荐榜单（延迟低、节点稳）](https://chatgpt-helper-tech.github.io/airport-guide/)
+
+[🧠 提示词大全（办公、写作、编程）](https://chatgpt-helper-tech.github.io/prompts-cheatsheet/)
+
+
+---
+
+## ✅ 总结
+
 现在你已经拥有：
 
 ChatGPT 账号 ✅
@@ -160,5 +178,5 @@ ChatGPT 账号 ✅
 
 📬 如果你觉得本教程有帮助，欢迎 Star + 分享，并使用推荐链接支持本站持续更新！
 
-🌐 官网主页：https://chatgpt-helper-tech.github.io
-📂 GitHub 源码仓库：https://github.com/chatgpt-helper-tech
+🌐 官网主页：[https://chatgpt-helper-tech.github.io](https://chatgpt-helper-tech.github.io)
+📂 GitHub 源码仓库：[https://github.com/chatgpt-helper-tech](https://github.com/chatgpt-helper-tech)
