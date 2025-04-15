@@ -134,19 +134,6 @@
 6️⃣ 按提示完成,升级成功
 ![完成](./assets/plus_6.jpg)
 
-```text
-Card Number: 野卡卡号
-Expiry Date / CVC: 野卡提供
-账单地址建议填写如下：
-
-Full Name: Your Name  
-Address: 123 Main St  
-City: Los Angeles  
-Zip Code: 90001  
-Country: United States
-4️⃣ 点击确认付款，几秒后即可提示升级成功，并收到官方邮件
-
-
 ---
 
 ## ❓ 常见问题解答
