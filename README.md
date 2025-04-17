@@ -10,7 +10,7 @@
 
 | 功能 | 免费用户 | Plus 用户 |
 |------|-----------|------------|
-| 模型 | GPT-4o （部分功能受限） | GPT-4.5  + o3（无使用限制） |
+| 模型 | GPT-4o （部分功能受限） | GPT-4.5  + o3 |
 | 文件上传 | 限次 | 批量、高频 |
 | 高级数据分析 | 无 | ✅ 支持 |
 | 图片生成 | 有限制 | ✅ 高速、高清、风格丰富 |
@@ -148,13 +148,10 @@
 
 ## 🧩 推荐配套教程
 
-[📘 ChatGPT 免费注册教程（图文+免手机号）](https://chatgpt-helper-tech.github.io/chatgpt-register-guide/)
-
-[🔐 VPN 工具推荐榜单（高成功率）](https://chatgpt-helper-tech.github.io/network-access/)
-
-[🚀 机场推荐榜单（延迟低、节点稳）](https://chatgpt-helper-tech.github.io/airport-guide/)
-
-[🧠 提示词大全（办公、写作、编程）](https://chatgpt-helper-tech.github.io/prompts-cheatsheet/)
+- [📘 ChatGPT 免费注册教程](https://chatgpt-helper-tech.github.io/chatgpt-register-guide/)
+- [📘 ChatGPT 中文导航主页](https://chatgpt-helper-tech.github.io/)
+- [🔐 2025 VPN 推荐榜单（科学上网工具）](https://chatgpt-helper-tech.github.io/network-access/)
+- [✈️ 2025 机场 推荐榜单 ](https://chatgpt-helper-tech.github.io/airport-access/)
 
 
 ---
