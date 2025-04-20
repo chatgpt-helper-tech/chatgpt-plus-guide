@@ -172,7 +172,10 @@ ChatGPT 账号 ✅
 可升级 Plus 的通道 ✅
 
 📌 通过本教程，你可以 10 分钟内完成 ChatGPT Plus 开通，不再依赖他人、不再卡在支付失败的问题上。
+---
 
-🌐 官网主页：[https://chatgpt-helper-tech.github.io](https://chatgpt-helper-tech.github.io)
-📂 GitHub 源码仓库：[https://github.com/chatgpt-helper-tech](https://github.com/chatgpt-helper-tech)
+📬 本项目由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 维护，面向中文用户持续更新  
+📂 GitHub Pages 主站地址：[https://chatgpt-helper-tech.github.io](https://chatgpt-helper-tech.github.io)  
+⭐ 如果你觉得本站有帮助，请点击 Star 或分享给有需要的朋友  
+---
 
