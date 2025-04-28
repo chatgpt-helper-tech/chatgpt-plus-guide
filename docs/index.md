@@ -1,6 +1,6 @@
 ---
 title: ChatGPT Plus 升级教程（野卡虚拟卡 · 支持支付宝）
-description: ChatGPT Plus 中文升级教程，图文实测，使用野卡虚拟信用卡支持支付宝付款，轻松升级 GPT-4 Plus，适合中国用户。
+description: ChatGPT Plus 中文升级教程，图文实测，使用野卡虚拟信用卡支持支付宝付款，轻松升级  Plus，适合中国用户。
 ---
 
 # 💳 2025 ChatGPT Plus 升级教程（虚拟卡解决方案 · 野卡实测成功）
