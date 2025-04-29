@@ -148,10 +148,10 @@
 
 ## 🧩 推荐配套教程
 
-- [📘 ChatGPT 免费注册教程](https://chatgpt-helper-tech.github.io/chatgpt-register-guide/)
-- [📘 ChatGPT 中文导航主页](https://chatgpt-helper-tech.github.io/)
-- [🔐 2025 VPN 推荐榜单（科学上网工具）](https://chatgpt-helper-tech.github.io/network-access/)
-- [✈️ 2025 机场 推荐榜单 ](https://chatgpt-helper-tech.github.io/airport-access/)
+- [📘 ChatGPT 免费注册教程](https://gptvpnhelper.com/chatgpt-register-guide/)
+- [📘 ChatGPT 中文导航主页](https://gptvpnhelper.com/)
+- [🔐 2025 VPN 推荐榜单（科学上网工具）](https://gptvpnhelper.com/network-access/)
+- [✈️ 2025 机场 推荐榜单 ](https://gptvpnhelper.com/airport-access/)
 
 
 ---
@@ -170,5 +170,5 @@ ChatGPT 账号 ✅
 
 📬 如果你觉得本教程有帮助，欢迎 Star + 分享，并使用推荐链接支持本站持续更新！
 
-🌐 官网主页：[https://chatgpt-helper-tech.github.io](https://chatgpt-helper-tech.github.io)
+🌐 官网主页：[https://gptvpnhelper.com](https://gptvpnhelper.com)
 📂 GitHub 源码仓库：[https://github.com/chatgpt-helper-tech](https://github.com/chatgpt-helper-tech)
