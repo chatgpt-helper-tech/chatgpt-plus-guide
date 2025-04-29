@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: ChatGPT Plus 升级教程（野卡虚拟卡 · 支持支付宝）
 description: 专为中文用户打造的 ChatGPT Plus 注册和升级全流程指南，包含科学上网VPN准备、虚拟卡办理、OpenAI账户注册、订阅支付技巧、常见问题解答，助你无障碍访问 ChatGPT Plus，高效完成注册和续费。
 google_analytics: G-LC9J5G7XX4
-url: "https://chatgpt-helper-tech.github.io"
+url: "https://gptvpnhelper.com"
 baseurl: "chatgpt-plus-guide"
 plugins:
   - jekyll-seo-tag
