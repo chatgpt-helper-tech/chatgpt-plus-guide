@@ -153,10 +153,10 @@ description: 专为中文用户打造的 ChatGPT Plus 注册和升级全流程�
 
 ## 🧩 推荐配套教程
 
-- [📘 ChatGPT 免费注册教程](https://chatgpt-helper-tech.github.io/chatgpt-register-guide/)
-- [📘 ChatGPT 中文导航主页](https://chatgpt-helper-tech.github.io/)
-- [🔐 2025 VPN 推荐榜单（科学上网工具）](https://chatgpt-helper-tech.github.io/network-access/)
-- [✈️ 2025 机场 推荐榜单 ](https://chatgpt-helper-tech.github.io/airport-access/)
+- [📘 ChatGPT 免费注册教程](https://gptvpnhelper.com/chatgpt-register-guide/)
+- [📘 ChatGPT 中文导航主页](https://gptvpnhelper.com/)
+- [🔐 2025 VPN 推荐榜单（科学上网工具）](https://gptvpnhelper.com/network-access/)
+- [✈️ 2025 机场 推荐榜单 ](https://gptvpnhelper.com/airport-access/)
 
 
 ---
@@ -175,7 +175,6 @@ ChatGPT 账号 ✅
 ---
 
 📬 本项目由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 维护，面向中文用户持续更新  
-📂 GitHub Pages 主站地址：[https://chatgpt-helper-tech.github.io](https://chatgpt-helper-tech.github.io)  
+📂 GitHub Pages 主站地址：[https://gptvpnhelper.com](https://gptvpnhelper.com)  
 ⭐ 如果你觉得本站有帮助，请点击 Star 或分享给有需要的朋友  
 ---
-
