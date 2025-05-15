@@ -64,10 +64,11 @@ description: 专为中文用户打造的 ChatGPT Plus 注册和升级全流程�
 
 > 除了年费，野卡 **无其他隐性费用**，卡内金额全部可用于平台订阅。
 
-🎁 使用推荐链接立减 $1，快速开通虚拟信用卡：  
-🔗 [点击注册野卡卡号](https://yeka.ai/i/P5FQUORW)（推荐码已自动填入）
+> 🎁 **使用推荐链接，立减 $1 美元，快速开通虚拟信用卡：**  
+> 👉 [点此立即注册野卡（推荐码自动填写）](https://yeka.ai/i/P5FQUORW)
 
-📎 推荐码：`P5FQUORW`（系统会自动填写）
+> 💡 推荐码：`P5FQUORW`（系统会自动填写，无需手动）
+
 
 ---
 
@@ -75,9 +76,9 @@ description: 专为中文用户打造的 ChatGPT Plus 注册和升级全流程�
 
 > ⚠️ 建议注册+充值前准备：VPN 打开官网，浏览器不要开启无痕模式。
 
-1️⃣ 访问野卡官网并开始注册：  
-👉 [yeka.ai 官网入口](https://yeka.ai/i/P5FQUORW)
-📌 打开后，点击右上角的【登录 / 注册】按钮
+1️⃣ 🧭 [点此打开 yeka.ai 官网注册入口](https://yeka.ai/i/P5FQUORW)
+点击右上角【登录 / 注册】按钮，完成账户创建
+
 
 ![野卡官网](./assets/step_1.webp)
 
@@ -191,5 +192,5 @@ ChatGPT 账号 ✅
 
 📬 本项目由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 维护，面向中文用户持续更新  
 📂 GitHub Pages 主站地址：[https://gptvpnhelper.com](https://gptvpnhelper.com)  
-⭐ 如果你觉得本站有帮助，请点击 Star 或分享给有需要的朋友  
+⭐ 创作不易,如果你觉得本站有帮助，请点击 Star⭐ 或分享给有需要的朋友  
 ---
