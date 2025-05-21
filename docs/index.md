@@ -5,7 +5,7 @@ description: 专为中文用户打造的 ChatGPT Plus 注册和升级全流程�
 
 ## 💳 2025 ChatGPT Plus 升级教程（虚拟卡解决方案 · 野卡实测成功）
 
-欢迎来到 ChatGPT 助手站！
+欢迎来到 **ChatGPT 中文助手站**！
 
 本教程将手把手教你如何成功升级 ChatGPT Plus，即使你没有海外信用卡，也能通过国内用户友好的【野卡虚拟卡】顺利完成付款。
 
@@ -157,7 +157,7 @@ description: 专为中文用户打造的 ChatGPT Plus 注册和升级全流程�
 
 ---
 
-## 🧩 延伸阅读推荐｜ChatGPT + 科学上网必备指南
+## 🧩 **ChatGPT 中文助手** 站延伸阅读推荐｜ChatGPT + 科学上网必备指南
 
 以下内容将帮助你从零开始畅享 ChatGPT、科学上网与 AI 工具使用体验：
 
@@ -167,10 +167,10 @@ description: 专为中文用户打造的 ChatGPT Plus 注册和升级全流程�
 - 📘 [ChatGPT 中文使用导航主页（持续更新）](https://gptvpnhelper.com/)  
   整合所有 ChatGPT 教程、升级攻略与辅助工具合集，适合新手收藏。
 
-- 🔐 [2025 年 VPN 推荐榜单｜科学上网工具实测评比](https://gptvpnhelper.com/network-access/)  
-  对比多款热门 VPN（如 Surfshark、NordVPN、StrongVPN）在中国地区的连接稳定性、价格与安全性。
+- 🔐 [2025 VPN 推荐榜单和使用教程](https://gptvpnhelper.com/network-access/)  
+  对比实测多款热门 VPN（如 Surfshark、NordVPN、StrongVPN）在中国地区的连接稳定性、价格与安全性。
 
-- ✈️ [2025 年机场推荐排行｜国内可用的稳定翻墙节点](https://gptvpnhelper.com/airport-access/)  
+- ✈️ [2025 机场 推荐和使用教程](https://gptvpnhelper.com/airport-access/)  
   精选支持 Clash / V2Ray / Shadowrocket 的免费与付费机场节点服务，适合长期稳定科学上网用户。
 
 
@@ -191,6 +191,6 @@ ChatGPT 账号 ✅
 ---
 
 📬 本项目由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 维护，面向中文用户持续更新  
-📂 GitHub Pages 主站地址：[https://gptvpnhelper.com](https://gptvpnhelper.com)  
+📂 ChatGPT 中文助手站 主站地址：[https://gptvpnhelper.com](https://gptvpnhelper.com)  
 ⭐ 创作不易,如果你觉得本站有帮助，请点击 Star⭐ 或分享给有需要的朋友  
 ---
