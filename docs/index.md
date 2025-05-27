@@ -172,7 +172,9 @@ description: 专为中文用户打造的 ChatGPT Plus 注册和升级全流程�
 
 - ✈️ [2025 机场 推荐和使用教程](https://gptvpnhelper.com/airport-access/)  
   精选支持 Clash / V2Ray / Shadowrocket 的免费与付费机场节点服务，适合长期稳定科学上网用户。
-
+  
+- [📘 ChatGPT最佳实践以及使用技巧](https://gptvpnhelper.com/guide/)
+  由 ChatGPT 中文助手导航站维护，**涵盖 ChatGPT 注册、Plus 升级、Prompt 模板、Explorer GPT、DALL·E/Sora 使用技巧等内容，适合新手与进阶者，帮助你全面掌握 ChatGPT 的使用方法。**
 
 
 ---
