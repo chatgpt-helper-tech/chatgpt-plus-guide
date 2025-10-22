@@ -374,48 +374,104 @@ last_modified_at: 2025-10-22
 </div>
 </div>
 
-> 🎁 **限时优惠**：年付套餐最高省 ¥200+  
+> 💰 **价格实惠**：月付约 ¥148-179，按月订阅更灵活  
 > 🔗 **官方网站**：[https://getgpt.pro/i/gpthelper](https://getgpt.pro/i/gpthelper)
 
 ---
 
-### 📝 GETGPT PRO 充值流程（3 步完成）
+### 📝 GETGPT PRO 充值流程（4 步完成）
 
-GETGPT PRO 官网已提供**完整可视化教程**，操作极其简单：
+GETGPT PRO 采用**充值卡密**方式，安全可靠，操作简单：
 
-#### ✅ 第 1 步：访问官网并选择套餐
+#### ✅ 第 1 步：购买充值卡密
 
-1. 打开 👉 <a href="https://getgpt.pro/i/gpthelper" class="cta-button" target="_blank">GETGPT PRO 官方充值页面</a>
-2. 选择 **ChatGPT Plus** 服务
-3. 根据需求选择套餐：
-   - **月付**：¥148-160（适合体验）
-   - **季付**：¥420-450（更划算）
-   - **年付**：¥1580-1680（省 ¥200+，推荐！）
-
----
-
-#### ✅ 第 2 步：填写邮箱并支付
-
-1. 输入你的 **ChatGPT 注册邮箱**（必须已注册）
-2. 选择支付方式：
+1. 打开 👉 <a href="https://getgpt.pro/i/gpthelper" class="cta-button" target="_blank">GETGPT PRO 官方网站</a>
+2. 点击「**立即升级**」按钮
+3. 选择 **ChatGPT Plus 月度充值卡**（约 ¥148-179）
+4. 选择支付方式：
    - ✅ **支付宝**（推荐，秒到）
    - ✅ **微信支付**
-   - ✅ 银联卡支付
-3. 完成支付，等待系统处理
+5. 完成支付后，系统会自动显示**充值卡密**（请务必保存）
 
-> ⚠️ **充值前必看**：
-> - 确保邮箱地址正确（错误邮箱无法退款）
-> - 如无账号，先访问 [ChatGPT 官网](https://chatgpt.com/) 注册
-> - 首次充值建议选月付，体验后再考虑年付
+<div class="success-box">
+💡 <strong>提示</strong>：
+<ul style="margin: 10px 0; padding-left: 20px;">
+<li>支付完成后会立即获取卡密，无需等待</li>
+<li>目前仅支持月度订阅，暂无年付或季付选项</li>
+<li>如需长期使用，可在到期前继续购买充值卡</li>
+</ul>
+</div>
 
 ---
 
-#### ✅ 第 3 步：验证充值成功
+#### ✅ 第 2 步：获取 ChatGPT 会话信息
 
-1. 充值完成后，**1-5 分钟内**会收到邮件通知
-2. 登录 [ChatGPT 官网](https://chatgpt.com/)
-3. 查看左下角账号信息，显示 **"ChatGPT Plus"** 即成功 🎉
-4. 现在可以使用 GPT-4o、o1、DALL·E 等所有高级功能！
+<div class="highlight-box">
+<strong>重要：需要登录 ChatGPT 官网以获取会话信息</strong>
+</div>
+
+1. 先登录 <a href="https://chatgpt.com/" target="_blank">ChatGPT 官网</a>（确保已注册账号）
+2. 登录成功后，打开新标签页，访问：
+   ```
+   https://chatgpt.com/api/auth/session
+   ```
+3. 页面会显示一段 **JSON 格式的会话信息**
+4. **复制全部内容**（不可缺漏），包括所有的花括号和引号
+
+<div class="warning-box">
+⚠️ <strong>重要提示</strong>：
+<ul style="margin: 10px 0; padding-left: 20px;">
+<li>会话信息是一长串 JSON 代码，务必完整复制</li>
+<li>如页面显示空白或错误，请重新登录 ChatGPT 后再试</li>
+<li>会话信息仅用于充值验证，不会泄露账号密码</li>
+</ul>
+</div>
+
+---
+
+#### ✅ 第 3 步：提交卡密和会话信息完成充值
+
+1. 返回 <a href="https://getgpt.pro/i/gpthelper" target="_blank">GETGPT PRO 充值页面</a>
+2. 点击「**验证卡密**」按钮
+3. 输入第 1 步获得的**充值卡密**
+4. 点击「**点击去获取充值信息**」
+5. 在弹出的输入框中，**粘贴**第 2 步复制的会话信息
+6. 点击「**点击立即充值**」按钮
+7. 系统自动处理，**1 分钟内完成充值** ⚡
+
+---
+
+#### ✅ 第 4 步：验证充值成功
+
+1. 充值完成后，刷新 <a href="https://chatgpt.com/" target="_blank">ChatGPT 官网</a>
+2. 查看左下角账号信息，显示 **"ChatGPT Plus"** 即成功 🎉
+3. 现在可以使用 GPT-4o、o1、DALL·E 等所有高级功能！
+
+<div class="feature-grid" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); margin-top: 20px;">
+<div class="feature-card">
+<h4>✅ 充值失败退款</h4>
+<p>100% 全额退款保障</p>
+</div>
+
+<div class="feature-card">
+<h4>✅ 零封号风险</h4>
+<p>正规苹果官方充值通道</p>
+</div>
+
+<div class="feature-card">
+<h4>✅ 用户信赖</h4>
+<p>已服务 5900+ 用户</p>
+</div>
+
+<div class="feature-card">
+<h4>✅ 在线客服</h4>
+<p>7×24 专业支持</p>
+</div>
+</div>
+
+<div class="success-box" style="margin-top: 20px;">
+💡 <strong>遇到问题？</strong> 参考 <a href="https://getgpt.pro/help" target="_blank" style="color: #28a745; font-weight: bold;">GETGPT PRO 充值自助排查</a> 或联系在线客服
+</div>
 
 ---
 
@@ -601,16 +657,15 @@ GETGPT PRO 官网已提供**完整可视化教程**，操作极其简单：
 
 ---
 
-### Q9：年付和月付哪个划算？
+### Q9：GETGPT PRO 有年付或季付优惠吗？
 
 **答**：
-| 套餐 | 月均价格 | 省钱幅度 | 推荐指数 |
-|------|---------|---------|---------|
-| 月付 | ¥148-160 | - | ⭐⭐⭐ 适合试用 |
-| 季付 | ¥140-150 | 省 ¥30+ | ⭐⭐⭐⭐ 日常使用 |
-| 年付 | ¥130-140 | **省 ¥200+** | ⭐⭐⭐⭐⭐ **最划算** |
+- ❌ **目前仅支持月度订阅**，暂无年付或季付选项
+- 💰 **月付价格**：约 ¥148-179/月
+- 🔄 **灵活续费**：到期前可随时购买下月充值卡
+- 📊 **按需订阅**：用多久充多久，无需一次性支付大额费用
 
-💡 **建议**：首次用户先充 1 个月体验，满意后购买年付。
+💡 **建议**：按月订阅更灵活，可根据实际使用情况决定是否续费。
 
 ---
 
