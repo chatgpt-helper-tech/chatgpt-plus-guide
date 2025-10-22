@@ -1,10 +1,13 @@
 # ChatGPT Plus 升级最新教程 | 国内用户安全快捷充值指南
 
+> 📖 **在线阅读体验更佳**：[https://gptvpnhelper.com/chatgpt-plus-guide/](https://gptvpnhelper.com/chatgpt-plus-guide/)  
+> （国内访问 GitHub 较慢，建议访问在线版本）
+
 欢迎来到 **ChatGPT 中文助手站**！
 
 本教程专为国内用户打造，提供**安全、快速、低成本**的 ChatGPT Plus 升级方案。即使没有海外信用卡，也能 3 分钟完成订阅，畅享最新 AI 技术。
 
-> ⚠️ **重要提示**：野卡（Yeka）等虚拟卡平台已停止服务，请勿再使用相关服务。本教程提供最新可用的充值方案。
+> ⚠️ **重要提示**：野卡（Yeka）等虚拟卡平台已于 2025 年初停止服务，请勿再使用相关服务。本教程提供最新可用的充值方案。
 
 > 🙌 如果本教程对你有帮助，**欢迎点一个免费的 Star ⭐**，让更多人看到靠谱的升级方案！
 
@@ -140,8 +143,7 @@
 | 🧑‍💼 **7×24 客服** | 在线客服秒回，充值失败全额退款 |
 
 > 🎁 **限时优惠**：年付套餐最高省 ¥200+  
-> 🔗 **官方网站**：[https://getgpt.pro/guide2](https://getgpt.pro/guide2)  
-> 💡 **推荐码**：（等待更新）
+> 🔗 **官方网站**：[https://getgpt.pro/i/gpthelper](https://getgpt.pro/i/gpthelper)
 
 ---
 
@@ -151,7 +153,7 @@ GETGPT PRO 官网已提供**完整可视化教程**，操作极其简单：
 
 #### ✅ 第 1 步：访问官网并选择套餐
 
-1. 打开 👉 [GETGPT PRO 官方充值页面](https://getgpt.pro/guide2)
+1. 打开 👉 [GETGPT PRO 官方充值页面](https://getgpt.pro/i/gpthelper)
 2. 选择 **ChatGPT Plus** 服务
 3. 根据需求选择套餐：
    - **月付**：¥148-160（适合体验）
@@ -326,7 +328,7 @@ GETGPT PRO 官网已提供**完整可视化教程**，操作极其简单：
 - 充值失败：全额退款到支付账户
 - 联系客服：在线客服平均响应时间 < 2 分钟
 
-> 🎯 官方客服：访问 [getgpt.pro/guide2](https://getgpt.pro/guide2) 右下角在线客服
+> 🎯 官方客服：访问 [getgpt.pro/i/gpthelper](https://getgpt.pro/i/gpthelper) 右下角在线客服
 
 ---
 
@@ -383,7 +385,7 @@ GETGPT PRO 官网已提供**完整可视化教程**，操作极其简单：
 ### Q10：有没有使用教程或客服支持？
 
 **答**：
-- 📘 **充值教程**：官网有完整可视化教程 → [getgpt.pro/guide2](https://getgpt.pro/guide2)
+- 📘 **充值教程**：官网有完整可视化教程 → [getgpt.pro/i/gpthelper](https://getgpt.pro/i/gpthelper)
 - 💬 **在线客服**：7×24 小时秒回（访问官网右下角）
 - ✉️ **邮件支持**：提供工单系统，保证解决问题
 
@@ -407,7 +409,7 @@ GETGPT PRO 官网已提供**完整可视化教程**，操作极其简单：
 👉 访问 [chatgpt.com](https://chatgpt.com/) → 用 Gmail 注册 → 10 秒完成
 
 #### 第 2 步：选择充值方案
-- **推荐**：[GETGPT PRO 代充](https://getgpt.pro/guide2) - 1 分钟到账，零风险
+- **推荐**：[GETGPT PRO 代充](https://getgpt.pro/i/gpthelper) - 1 分钟到账，零风险
 - **备选**：Apple 礼品卡 - 需美区 Apple ID
 
 #### 第 3 步：验证并开始使用
@@ -432,7 +434,7 @@ GETGPT PRO 官网已提供**完整可视化教程**，操作极其简单：
 
 <div align="center">
 
-### 👉 [点击访问 GETGPT PRO 官网，3 分钟完成充值](https://getgpt.pro/guide2)
+### 👉 [点击访问 GETGPT PRO 官网，3 分钟完成充值](https://getgpt.pro/i/gpthelper)
 
 **或扫描下方二维码**（待添加）
 
@@ -484,7 +486,7 @@ GETGPT PRO 官网已提供**完整可视化教程**，操作极其简单：
 
 | 骗局类型 | 风险 | 识别方法 |
 |---------|------|---------|
-| **野卡/Depay 等虚拟卡** | 已跑路或高风险 | 2024 年后不再推荐 |
+| **野卡/Depay 等虚拟卡** | 已跑路或高风险 | 2025 年已不可用 |
 | **淘宝超低价代充** | 盗刷信用卡，账号被封 | 价格 < ¥100/月的都有问题 |
 | **QQ 群/微信群代充** | 付款后拉黑 | 无官网、无客服的个人代充 |
 | **合租账号** | 隐私泄露，随时被封 | 多人共用一个账号 |
@@ -502,7 +504,7 @@ GETGPT PRO 官网已提供**完整可视化教程**，操作极其简单：
 
 ### 遇到问题？我们来帮你
 
-- 🆘 **GETGPT PRO 客服**：[getgpt.pro/guide2](https://getgpt.pro/guide2) 右下角在线客服
+- 🆘 **GETGPT PRO 客服**：[getgpt.pro/i/gpthelper](https://getgpt.pro/i/gpthelper) 右下角在线客服
 - 💬 **GitHub Issues**：在本项目提问，社区互助
 - ⭐ **给项目点 Star**：让更多人看到靠谱的教程
 
@@ -534,7 +536,7 @@ GETGPT PRO 官网已提供**完整可视化教程**，操作极其简单：
 | 链接 | 说明 |
 |-----|------|
 | 🌐 [ChatGPT 官网](https://chatgpt.com/) | 注册账号、使用服务 |
-| 💳 [GETGPT PRO](https://getgpt.pro/guide2) | 推荐代充平台（本教程推荐）|
+| 💳 [GETGPT PRO](https://getgpt.pro/i/gpthelper) | 推荐代充平台（本教程推荐）|
 | 📖 [ChatGPT 中文助手站](https://gptvpnhelper.com) | AI 工具导航站 |
 | 💻 [GitHub 仓库](https://github.com/chatgpt-helper-tech) | 本项目开源地址 |
 | 📄 [在线教程页面](https://gptvpnhelper.com/chatgpt-plus-guide/) | GitHub Pages 版本 |
@@ -543,11 +545,11 @@ GETGPT PRO 官网已提供**完整可视化教程**，操作极其简单：
 
 <div align="center">
 
-**最后更新时间**：2025年10月19日  
+**最后更新时间**：2025年10月22日  
 **教程维护者**：ChatGPT 中文助手站
 
 ### ⭐ 如果本教程帮到你，请点个 Star 支持一下！⭐
 
-[立即充值 ChatGPT Plus →](https://getgpt.pro/guide2)
+[立即充值 ChatGPT Plus →](https://getgpt.pro/i/gpthelper)
 
 </div>
