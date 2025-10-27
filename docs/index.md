@@ -190,7 +190,7 @@ last_modified_at: 2025-10-22
 </script>
 
 <div class="update-time">
-📅 <strong>最后更新时间</strong>：2025年10月22日 | 🔄 持续更新中
+📅 <strong>最后更新时间</strong>：2025年10月27日 | 🔄 持续更新中
 </div>
 
 # 【2025最新】ChatGPT Plus 升级教程 - 国内充值 3 分钟搞定
@@ -198,7 +198,7 @@ last_modified_at: 2025-10-22
 <div class="highlight-box">
 🎉 <strong>野卡跑路后最佳替代方案</strong><br>
 专为国内用户打造，无需海外信用卡，支付宝/微信直接支付<br>
-<strong style="font-size: 1.2em;">3 分钟完成充值 | 零封号风险 | ¥148/月起</strong>
+<strong style="font-size: 1.2em;">3 分钟完成充值 | 零封号风险 | </strong>
 </div>
 
 <div class="feature-grid" style="margin-top: 30px;">
